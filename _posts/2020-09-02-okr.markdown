@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "OKR"
+date:   2020-08-30 21:48:48 +0530
+categories: 
+---
+**OKRs**
+- John Doerr
+- https://www.youtube.com/watch?v=L4N1q4RNi9I
+- WHY (the motivation and the main objective behind it)
+    - inspirational
+    - significant
+    - concrete
+    - action oriented
+- WHAT (the Objective in OKR )
+- HOW (the KR in OKR ) : these should be measurable
+    - specific and time bound
+    - aggressive yet realistic
+    - measurable and verifiable
+- Common reasons why they fail :
+    - the WHAT part is sometimes impossible
+    - lack of clear definition
+    - no follow up
+    - too many goals overwhelm
+    - resources in a team are not aligned
+- https://www.atlassian.com/team-playbook/plays/okrs :
+    - 
+- https://assets.ctfassets.net/mu244eycyvsr/3T7YZSUplO5Wt2UMpHKBoF/70ca14665b9735a7f7cff5f4c95c34df/WhatMatters.com_-_Google_s_OKR_Playbook.pdf
+    - **How has google implemented OKR** :
+    - ![](./../_images/okr-initiatives.jpeg) 
+    [image source:][1]
+
+
+[1]: https://www.linkedin.com/pulse/okr-embraced-google-bono-lawrence-serven/

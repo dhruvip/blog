@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Managing Thyself"
+date:   2020-08-30 21:48:48 +0530
+categories: 
+---
+
+- peter drucker
+- success to knowledge economy comes to them who know themselves
+- This is an era where knowledge workers are not managed by an organization; rather they must effectively be their own CEO and carve a career. Its up to the knowledge worker to know when to change course, and to keep oneself engaged and productive during the work life and even post that.
+- Following are the questions which will help you know yourself:
+    - **What are my strengths?** :
+        - Feedback analysis will help you know your strengths, improve on your mediocre strengths, and to discover where your intellectual arrogance is causing disabling ignorance and overconfidence.
+        - It also helps you to discover your bad habits
+    - **How do I perform?** : 
+        - **Am I reader or listener?**:
+        - **How do I learn?**: People have different methods to learn. Unique to each individual. Some learn by reading, writing, listening, talking to themselves,teaching to others. Identify that for yourself, that is how you learn. Then the next question for you will be "Do you act on that knowledge? ".
+        - **Do i work well with people? Am I a loner? In what capacity I work well with people?** : Some are good subordinates, some leaders. Some are team players, some wok in silos. Change the role and they will screw up. 
+        - **Am I a decision maker or an adviser?**: Great many people work best as advisers but cannot take the burden of making decisions. While there are others, who need advisers to force themselves to think and then they can go ahead and make decisions and act on them with speed, self confidence and courage.
+        - **Do I perform well under stress?**
+        - **Do I work best in big organization or a small one**
+        - **Do i need a highly structured and predictable environment to work**
+    - **What are my values?**
+        - It also called mirror test. We are not talking abt the ethical values. They are same for everyone. We are talking abt principles and beliefs in ones life. Ethics could be part of those values you have as a person. Working for a person or an organization whose principles do not coincides with your individual values, is bound to create stress, frustration and unproductive.
+        - It can happen that a person's strength and the value may not always coincide. At that time you need to decide was are your priorities: values or success
+    - **Where do i belong>**
+        - Very small number of people know where do they belong. After answering some of the abv questions, one must have an answer like " Yes, I will do that. But this is the way I should be doing it. This is the way it needs to be structured for me to do it in so and  so time. This is the relationship it should have. And post that these are the type of results you can expect. This is who I am and how I work."
+        - Successful careers are not planned. They are developed when people are prepared for the opportunities because they know their strengths, their method of work and their values.
+    - **What should i contribute?**
+        - Earlier people were told what to contribute.
+        - "what do i want to do?"
+        - one must decide his/her contribution based on their strengths, values and how they work. And the final deciding factor will be what is the result you can give
+    - **responsibility for relationships**
+        - managing yourself include how you manage yourself while working with other. Here these relationships come into picture.
+        - I order to have a successful relationship with other people you need to understand 2 things:
+            - They all are but humans, with their strengths, values and method of work. They are not perfect. But understanding each others' strengths and work methods and finding a workable way around it will definitely increase the chances to successful relationship
+            - 2nd important thing is communication. Clear communication is necessary when group of people are working towards same goal. One needs to clearly set what is expected result and how that result is evaluated for the team to know how to work around it. Communication is needed within the team to let the team-mates know what are your strengths, weakness and the method to work.
+
+    - **second half of the life**
+        - most of the people look forward to a peaceful retired life in the second half of their life, but there are those knowledge worker who do not look forward to it. 
+        - they have this need to keep learning and doing something challenging in life that doesn't let them sit at home. Most people therefore start a second career.
+        - There are 2 ways to starts a second career:
+            - Once you are modestly successful in one career, when it has rather become a chore for you, when you no longer find the work challenging. Start a new and different career
+            - Have a parallel career
+        - There is another reason why one must have a second major interest in life. Life is unexpected and unpredictable. When a tragedy strikes, this second major interest have found to keep many people mentally and emotionally floating
+
+
